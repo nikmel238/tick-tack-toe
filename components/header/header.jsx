@@ -11,7 +11,7 @@ export function Header() {
       <button className="w-44 bg-teal-600 hover:bg-teal-500 transition-colors text-white rounded-lg px-5 py-2 text-2xl leading-tight">
         Играть
       </button>
-      <button className="ml-auto flex items-center gap-2 text-teal-600 hover:text-teal-500 transition-colors">
+      <button className="ml-auto flex items-center gap-2 hover:text-teal-500 transition-colors">
         <Profile />
         <ArrowDownIcon />
       </button>
