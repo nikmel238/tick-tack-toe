@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d54271b-7b96-4ef8-9c93-2a698549c966" name="Changes" comment="Delete old Components">
+    <list default="true" id="5d54271b-7b96-4ef8-9c93-2a698549c966" name="Changes" comment="Changes Profile, Header. The text color is set in the component Profile">
+      <change afterPath="$PROJECT_DIR$/components/game/gameInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/game/icons/crossGameIcon.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/game/icons/squareGameIcon.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/game/icons/triangleGameIcon.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/game/icons/zeroGameIcon.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/game/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/game/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +61,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Nikita/Programming/Paromov_Front/tick-tack-toe/pages",
+    "last_opened_file_path": "D:/Nikita/Programming/Paromov_Front/tick-tack-toe/components/game/icons",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,9 +77,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\pages" />
-      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game" />
       <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game\icons" />
+      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game" />
+      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game" />
@@ -102,7 +108,7 @@
       <workItem from="1710679697812" duration="215000" />
       <workItem from="1711134486201" duration="3095000" />
       <workItem from="1711175198944" duration="10000" />
-      <workItem from="1711182453315" duration="1599000" />
+      <workItem from="1711182453315" duration="5004000" />
     </task>
     <task id="LOCAL-00001" summary="Change Header. Add Profile. Add ArrowDownIcon.">
       <option name="closed" value="true" />
@@ -128,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711183907737</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add GameTitle">
+      <option name="closed" value="true" />
+      <created>1711184115484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711184115484</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes Profile, Header. The text color is set in the component Profile">
+      <option name="closed" value="true" />
+      <created>1711187010021</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711187010021</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +188,8 @@
     <MESSAGE value="fixup! Change Header. Add Profile. Add ArrowDownIcon." />
     <MESSAGE value="Change Header. Add Profile. Add ArrowDownIcon." />
     <MESSAGE value="Delete old Components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete old Components" />
+    <MESSAGE value="Add GameTitle" />
+    <MESSAGE value="Changes Profile, Header. The text color is set in the component Profile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes Profile, Header. The text color is set in the component Profile" />
   </component>
 </project>
