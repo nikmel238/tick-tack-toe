@@ -4,11 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d54271b-7b96-4ef8-9c93-2a698549c966" name="Changes" comment="" />
+    <list default="true" id="5d54271b-7b96-4ef8-9c93-2a698549c966" name="Changes" comment="Delete old Components">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nikmel238&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4b5548e9-1136-4936-b8e0-a9e9c20d45b7" />
+        <option name="url" value="git@github.com:nikmel238/tick-tack-toe.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -22,26 +50,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Nikita/Programming/Paromov_Front/tick-tack-toe&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\Nikita\\Programming\\Paromov_Front\\tick-tack-toe\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Nikita/Programming/Paromov_Front/tick-tack-toe/pages",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\Nikita\\Programming\\Paromov_Front\\tick-tack-toe\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.1.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\pages" />
+      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game" />
+      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game\icons" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game" />
+      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\profile" />
       <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components" />
     </key>
   </component>
@@ -61,11 +97,75 @@
       <workItem from="1710582215228" duration="5580000" />
       <workItem from="1710657917582" duration="3766000" />
       <workItem from="1710667155236" duration="2236000" />
-      <workItem from="1710669419195" duration="1240000" />
+      <workItem from="1710669419195" duration="2616000" />
+      <workItem from="1710672084983" duration="1252000" />
+      <workItem from="1710679697812" duration="215000" />
+      <workItem from="1711134486201" duration="3095000" />
+      <workItem from="1711175198944" duration="10000" />
+      <workItem from="1711182453315" duration="1599000" />
     </task>
+    <task id="LOCAL-00001" summary="Change Header. Add Profile. Add ArrowDownIcon.">
+      <option name="closed" value="true" />
+      <created>1711183083723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711183083723</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change Header. Add Profile. Add ArrowDownIcon.">
+      <option name="closed" value="true" />
+      <created>1711183701887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711183701887</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Delete old Components">
+      <option name="closed" value="true" />
+      <created>1711183907737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711183907737</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixup! Change Header. Add Profile. Add ArrowDownIcon." />
+    <MESSAGE value="Change Header. Add Profile. Add ArrowDownIcon." />
+    <MESSAGE value="Delete old Components" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete old Components" />
   </component>
 </project>
