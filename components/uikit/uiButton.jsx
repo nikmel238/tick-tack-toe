@@ -1,5 +1,11 @@
 import clsx from "clsx";
 
+/**@param {{children:any,
+ * className: string,
+ * size: `md` | `lg`,
+ * variant:`primary` | `outline`,
+ * }} props
+ **/
 export function UiButton({ children, className, size, variant }) {
   const buttonClassName = clsx(
     `transition-colors py-2 leading-tight`,
