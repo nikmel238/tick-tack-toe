@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d54271b-7b96-4ef8-9c93-2a698549c966" name="Changes" comment="Changes Profile, Header. The text color is set in the component Profile">
-      <change afterPath="$PROJECT_DIR$/components/game/gameInfo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/game/icons/crossGameIcon.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/game/icons/squareGameIcon.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/game/icons/triangleGameIcon.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/game/icons/zeroGameIcon.jsx" afterDir="false" />
+    <list default="true" id="5d54271b-7b96-4ef8-9c93-2a698549c966" name="Changes" comment="Add UiKit - uiButton">
+      <change afterPath="$PROJECT_DIR$/components/game/gameField.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/uikit/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/game/gameInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/game/gameInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/game/icons/crossGameIcon.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/game/icons/crossGameIcon.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/game/icons/zeroGameIcon.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/game/icons/zeroGameIcon.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/game/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/game/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/header/header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/header/header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/uikit/uiButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/uikit/uiButton.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -61,7 +64,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Nikita/Programming/Paromov_Front/tick-tack-toe/components/game/icons",
+    "last_opened_file_path": "D:/Nikita/Programming/Paromov_Front/tick-tack-toe/components/game",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,8 +80,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game\icons" />
       <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game" />
+      <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\components\game\icons" />
       <recent name="D:\Nikita\Programming\Paromov_Front\tick-tack-toe\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -108,7 +111,7 @@
       <workItem from="1710679697812" duration="215000" />
       <workItem from="1711134486201" duration="3095000" />
       <workItem from="1711175198944" duration="10000" />
-      <workItem from="1711182453315" duration="5004000" />
+      <workItem from="1711182453315" duration="9598000" />
     </task>
     <task id="LOCAL-00001" summary="Change Header. Add Profile. Add ArrowDownIcon.">
       <option name="closed" value="true" />
@@ -150,7 +153,47 @@
       <option name="project" value="LOCAL" />
       <updated>1711187010021</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add GameIcon Components">
+      <option name="closed" value="true" />
+      <created>1711188166112</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711188166112</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add GameInfo Component">
+      <option name="closed" value="true" />
+      <created>1711188185246</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711188185246</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changes HomePage. Add GameInfo Component">
+      <option name="closed" value="true" />
+      <created>1711188240198</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711188240198</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add UiKit - uiButton">
+      <option name="closed" value="true" />
+      <created>1711225982798</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711225982798</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixup! Add UiKit - uiButton">
+      <option name="closed" value="true" />
+      <created>1711226312185</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711226312185</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +233,11 @@
     <MESSAGE value="Delete old Components" />
     <MESSAGE value="Add GameTitle" />
     <MESSAGE value="Changes Profile, Header. The text color is set in the component Profile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes Profile, Header. The text color is set in the component Profile" />
+    <MESSAGE value="add GameIcon Components" />
+    <MESSAGE value="add GameInfo Component" />
+    <MESSAGE value="Changes HomePage. Add GameInfo Component" />
+    <MESSAGE value="Add UiKit - uiButton" />
+    <MESSAGE value="fixup! Add UiKit - uiButton" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! Add UiKit - uiButton" />
   </component>
 </project>
